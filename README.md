@@ -1,5 +1,5 @@
-                              **# Hotel-Booking-Data-Analysis**
- **Objective**
+                                         **Hotel-Booking-Data-Analysis**
+** **Objective**
             The aim of this analysis is to explore hotel booking data to gain insights into reservation patterns, cancellation rates, and average daily rates (ADR) across different types of hotels. By understanding these aspects, stakeholders can make informed decisions to improve services and maximize occupancy.
 
 **Business Problem**
